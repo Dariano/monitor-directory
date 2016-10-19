@@ -9,6 +9,8 @@
   "author": "darianososares@hotmail.com",
   "license": "ISC",
   "dependencies": {
-    "chokidar": "^1.6.1"
+    "chokidar": "^1.6.1",
+    "fast-csv": "^2.3.0",
+    "mongoose": "^4.6.4"
   }
 }
