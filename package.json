@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
   "author": "darianososares@hotmail.com",
   "license": "ISC",
   "dependencies": {
     "chokidar": "^1.6.1",
     "fast-csv": "^2.3.0",
+    "fs-extra": "^0.30.0",
     "mongoose": "^4.6.4"
   }
 }
